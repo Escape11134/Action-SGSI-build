@@ -6,11 +6,11 @@ on:
       ROM_URL:
         description: 'ROM_URL'
         required: true
-        default: 'https://hugeota.d.miui.com/21.5.31/miui_TUCANA_21.5.31_cb42ec9bed_11.0.zip'
+        default: 'https://bigota.d.miui.com/V12.5.6.0.RKJCNXM/ares_images_V12.5.6.0.RKJCNXM_20210526.0000.00_11.0_cn_45927a13db.tgz'
       ZIP_NAME:
         description: 'ZIP_NAME'
         required: true
-        default: 'miui_TUCANA_21.5.31_cb42ec9bed_11.0.zip'
+        default: 'ares_images_V12.5.6.0.RKJCNXM_20210526.0000.00_11.0_cn_45927a13db.tgz'
       OS_TYPE:
         description: 'OS_TYPE'
         required: true
